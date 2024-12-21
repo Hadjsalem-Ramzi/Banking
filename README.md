@@ -100,9 +100,4 @@ L'API est documentée avec **Swagger**. Après le démarrage du serveur, accéde
 
 [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
----
-
-## Configuration de la base de données
-
-La configuration de la base de données peut être ajustée dans le fichier `src/main/resources/application.yml`. Exemple :  
 
